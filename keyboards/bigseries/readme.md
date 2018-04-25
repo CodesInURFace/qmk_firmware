@@ -10,6 +10,6 @@ Hardware Availability:  [Woodkeys.click](https://woodkeys.click), [NovelKeys](ht
 
 Make example for this keyboard (after setting up your build environment):
 
-    make bigseries:default
+    make bigseries:default I dont know how this works
 
 See [build environment setup](https://docs.qmk.fm/build_environment_setup.html) then the [make instructions](https://docs.qmk.fm/make_instructions.html) for more information.
